@@ -44,8 +44,6 @@ build/
 .mtj.tmp/
 
 
-src/main/resources/application.properties
-src/main/resources/application.properties
 # Package Files #
 *.jar
 *.war
@@ -60,6 +58,3 @@ src/main/resources/application.properties
 
 *.json
 *.pyc
-
-**secrets_local.py
-**application.properties
